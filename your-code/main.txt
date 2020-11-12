@@ -1,0 +1,5 @@
+REGULAR_LAB = https://public.tableau.com/profile/filipe.santos6105#!/vizhome/LAB_TABLEAU/Dashboard1?publish=yes
+BONUS_LAB = https://public.tableau.com/profile/filipe.santos6105#!/vizhome/BONUSLABTABLEUA/GDP?publish=yes
+
+
+
